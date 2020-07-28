@@ -3,7 +3,6 @@ Here, UICollectionView for implementing vertical swipe  up-done for next/previou
 ## Requirements
 - Xcode 10+
 
-
 ### How to use by Interface
 #### Step 1
 Add `InshortsLayout` class into your project 
@@ -37,12 +36,5 @@ Add `InshortsLayout` class into your project
 #### SwipUp
 <img width="414" alt="Screenshot 2019-09-04 at 10 08 31 PM" src="https://user-images.githubusercontent.com/15169802/74109766-40181680-4bac-11ea-84b5-a2309e4211d7.png">
 
-## Communication
-
-- If you found a bug, please open an issue. :bow:
-- Also, if you have a feature request, please open an issue. :thumbsup:
-- If you want to contribute, submit a pull request.:muscle:
-
-
 ## Created by
-Mohd Tahir, [@Mohd_Tahir99](https://twitter.com/Mohd_Tahir99)
+Vikas Singamsetty
